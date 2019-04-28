@@ -1,0 +1,17 @@
+SET IDENTITY_INSERT [dbo].[Songs] ON
+INSERT INTO [dbo].[Songs] ([Id], [_artist], [AlbumTitle], [SongTitle], [SongFile], [PlaylistName], [SongFreq]) VALUES (21050, N'Basic Artist A', N'Basic Album A', N'Basic Title A', N'Basic File A', N'BASIC LIST', 0)
+INSERT INTO [dbo].[Songs] ([Id], [_artist], [AlbumTitle], [SongTitle], [SongFile], [PlaylistName], [SongFreq]) VALUES (21051, N'Basic Artist B', N'Basic Album B', N'Basic Title B', N'Basic File B', N'BASIC LIST', 0)
+INSERT INTO [dbo].[Songs] ([Id], [_artist], [AlbumTitle], [SongTitle], [SongFile], [PlaylistName], [SongFreq]) VALUES (21052, N'Basic Artist C', N'Basic Album C', N'Basic Title C', N'Basic File C', N'BASIC LIST', 0)
+INSERT INTO [dbo].[Songs] ([Id], [_artist], [AlbumTitle], [SongTitle], [SongFile], [PlaylistName], [SongFreq]) VALUES (21053, N'Scotch', N'Best Of Scotch', N'Disco Band', N'01. Scotch - Disco Band', N'So80s', 0)
+INSERT INTO [dbo].[Songs] ([Id], [_artist], [AlbumTitle], [SongTitle], [SongFile], [PlaylistName], [SongFreq]) VALUES (21054, N'Yazoo', N'Upstairs At Erics', N'Dont Go', N'02. Yazoo - Dont Go', N'So80s', 0)
+INSERT INTO [dbo].[Songs] ([Id], [_artist], [AlbumTitle], [SongTitle], [SongFile], [PlaylistName], [SongFreq]) VALUES (21055, N'Scotch', N'Best Of Scotch', N'Delirio Mind', N'03. Scotch - Delirio Mind', N'So80s', 0)
+INSERT INTO [dbo].[Songs] ([Id], [_artist], [AlbumTitle], [SongTitle], [SongFile], [PlaylistName], [SongFreq]) VALUES (21056, N'Fancy', N'Get Your Kicks', N'Slice Me Nice', N'05. Fancy - Slice Me Nice', N'So80s', 0)
+INSERT INTO [dbo].[Songs] ([Id], [_artist], [AlbumTitle], [SongTitle], [SongFile], [PlaylistName], [SongFreq]) VALUES (21057, N'Fancy', N'Contact', N'Lady Of Ice', N'06. Fancy -  Lady of Ice', N'So80s', 0)
+INSERT INTO [dbo].[Songs] ([Id], [_artist], [AlbumTitle], [SongTitle], [SongFile], [PlaylistName], [SongFreq]) VALUES (21058, N'Vangelis', N'Blade Runner OST', N'Blade Runner (End Titles)', N'07. Vangelis - Blade Runner (End Titles)', N'Soundtracks', 0)
+INSERT INTO [dbo].[Songs] ([Id], [_artist], [AlbumTitle], [SongTitle], [SongFile], [PlaylistName], [SongFreq]) VALUES (21059, N'Rammstein', N'Sehnsucht', N'Engel', N'08. Rammstein - Engel', N'Industrial Metal', 0)
+INSERT INTO [dbo].[Songs] ([Id], [_artist], [AlbumTitle], [SongTitle], [SongFile], [PlaylistName], [SongFreq]) VALUES (21060, N'The Prodigy', N'Music For The Jilted Generation', N'Voodoo People', N'09. The Prodigy - Voodoo People', N'Big Beat', 0)
+INSERT INTO [dbo].[Songs] ([Id], [_artist], [AlbumTitle], [SongTitle], [SongFile], [PlaylistName], [SongFreq]) VALUES (21061, N'The Prodigy', N'Music For The Jilted Generation', N'Poison', N'10. The Prodigy - Poison', N'Big Beat', 0)
+INSERT INTO [dbo].[Songs] ([Id], [_artist], [AlbumTitle], [SongTitle], [SongFile], [PlaylistName], [SongFreq]) VALUES (21062, N'The Prodigy', N'The Fat Of The Land', N'Smack My Bitch Up', N'11. The Prodigy - Smack My Bitch Up', N'Big Beat', 0)
+INSERT INTO [dbo].[Songs] ([Id], [_artist], [AlbumTitle], [SongTitle], [SongFile], [PlaylistName], [SongFreq]) VALUES (21063, N'Koto', N'Plays Synthesizer Hits', N'Oxygene part IV', N'12. Koto -  Oxygene part IV', N'So80s', 0)
+INSERT INTO [dbo].[Songs] ([Id], [_artist], [AlbumTitle], [SongTitle], [SongFile], [PlaylistName], [SongFreq]) VALUES (21064, N'Koto', N'Plays Synthesizer Hits', N'Pulstar', N'13. Koto - Pulstar', N'So80s', 0)
+SET IDENTITY_INSERT [dbo].[Songs] OFF
